@@ -112,7 +112,7 @@ public class Display extends Canvas implements Runnable {
 
     private Graphics g;
     public static int axisOffsetX = 0, axisOffsetY = 0;
-    public static Color bgColor = new Color(54, 54, 54);
+    public static Color bgColor = new Color(117, 166, 173);
     private void render() {
         BufferStrategy bs = this.getBufferStrategy();
 
