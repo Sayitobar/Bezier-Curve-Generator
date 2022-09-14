@@ -14,3 +14,6 @@ Beziér curve generator with UI on a 2D graphics engine
 - You can't drag the curves themselves
 - You can't turn on/off the visibility of assisting lines (de: Hilfslinie)
 - Zooming is janky and turned off by default. You need to re-enable it by (un)commenting some stuff (check `com.sayitobar.point.MyLine.render()`).
+
+## Sample Image
+<img width="860" alt="imhg" src="https://user-images.githubusercontent.com/95364352/190245931-d269a5f5-d3af-4701-85c6-4a5d4c24812b.png">
