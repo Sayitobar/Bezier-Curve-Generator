@@ -101,7 +101,7 @@ public class Display extends Canvas implements Runnable {
             if (System.currentTimeMillis() - timer > 1000) {  // Writes out the FPS once per second (1000ms = 1s)
                 timer += 1000;
                 System.out.println("FPS: " + frame);
-                this.frame.setTitle("3D Renderer - FPS: " + frame);
+                this.frame.setTitle("Bezier Generator - FPS: " + frame);
 
                 FPS = frame;
                 frame = 0;
