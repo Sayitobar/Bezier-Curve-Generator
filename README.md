@@ -12,7 +12,7 @@ Beziér curve generator with UI on a 2D graphics engine
 ## Cons
 - You can neither generate new control points nor delete one.
 - You can't drag the curves themselves.
-- You can't turn on/off the visibility of assisting lines later, you determine the visibility in creation. (de: Hilfslinie)
+- You can't turn on/off the visibility of assisting lines later, you determine their visibility in creation. (de: Hilfslinie)
 - Zooming is janky and turned off by default. You need to re-enable it by (un)commenting some stuff (check `com.sayitobar.point.MyLine.render()`).
 
 ## Sample Image
